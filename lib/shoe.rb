@@ -2,4 +2,6 @@
 class Shoe 
   def initialize(brand)
     end
-  end
+end
+  
+shoe.brand = Show.new("Nike")

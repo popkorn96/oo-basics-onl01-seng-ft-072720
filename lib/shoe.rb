@@ -4,4 +4,3 @@ class Shoe
     end
 end
   
-shoe.brand = Show.new("Nike")

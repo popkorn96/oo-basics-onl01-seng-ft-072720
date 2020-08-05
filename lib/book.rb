@@ -6,7 +6,6 @@ class Book
   def title
     @title
   end
-  end
   def page_count=(num)
     @page_count=num 
   end
